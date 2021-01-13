@@ -1,1 +1,1 @@
-Data 8
+|[Home]()|[Coursework](coursework)|[Teaching](teaching)|[Projects](projects)|
