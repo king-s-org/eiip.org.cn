@@ -3,10 +3,3 @@ title: "Shangdian (King) Han 韩尚典"
 description: <a href="/" style="color:#FFFFFF;">Home</a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework</a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching</a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects</a>
 
 theme: jekyll-theme-slate
-
-github:
-  is_project_page: false
-
-is_project_page: false
-google_analytics: true
-show_downloads: true
