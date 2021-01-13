@@ -1,1 +1,1 @@
-|[Home]()|[Coursework](coursework)|[Teaching](teaching)|[Projects](projects)|
+|[Home](/)|[Coursework](coursework)|[Teaching](teaching)|[Projects](projects)|
