@@ -8,8 +8,8 @@ Hello！我叫韩尚典，目前在加州伯克利读大三，选修数学+计�
 
 Email 邮箱：[kingh0730@berkeley.edu](kingh0730@berkeley.edu)
 
-* WeChat/微信/QQ：767673599
-	* QR Code 扫码：![WeChat QR](assets/images/wechat-qr.jpeg)
+* WeChat/微信/QQ：767673599；QR Code 扫码：
+![WeChat QR](assets/images/wechat-qr.jpeg)
 * [LinkedIn 领英](https://www.linkedin.com/in/kingh0730/)
 * [GitHub](https://github.com/kingh0730)
 * [Twitter](https://twitter.com/kingh0730)
