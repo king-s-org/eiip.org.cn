@@ -12,9 +12,8 @@ title: Coursework 课程
 
 Here's a (incomplete) list of classes that I've taken at the University of California, Berkeley:
 
-Math
-
 | --- | --- |
+| **Math** | |
 | Math 53 | Multivariable Calculus |
 | Math 54 | Linear Algebra and Differential Equations |
 | Math H104 | Honors Introduction to Analysis |
