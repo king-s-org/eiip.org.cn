@@ -1,7 +1,7 @@
-# Welcome
+# Welcome 欢迎
 
-# Contact
+# Contact 联系
 
-# A note on my name
+# A note on my name 我的英文名
 
-# Tata
+# Tata 塔塔
