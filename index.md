@@ -6,10 +6,9 @@ Hello！我叫韩尚典，目前在加州伯克利读大三，选修数学+计�
 
 # Contact 联系
 
-[Linkedin](https://www.linkedin.com/in/kingh0730/) [GitHub](https://github.com/kingh0730) [Twitter](https://twitter.com/kingh0730) [Facebook](https://www.facebook.com/kinghan0730/) [Instagram](https://www.instagram.com/kingh0730/)
+Email 邮箱：[kingh0730@berkeley.edu](kingh0730@berkeley.edu)
 
-
-Email 邮箱：kingh0730@berkeley.edu
+[LinkedIn](https://www.linkedin.com/in/kingh0730/) [GitHub](https://github.com/kingh0730) [Twitter](https://twitter.com/kingh0730) [Facebook](https://www.facebook.com/kinghan0730/) [Instagram](https://www.instagram.com/kingh0730/)
 
 WeChat 微信：qwertyuihao
 
