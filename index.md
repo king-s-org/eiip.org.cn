@@ -1,5 +1,6 @@
-1. [Welcome 欢迎](#Welcome欢迎)
-2. [Contact 联系](#Contact联系)
+1. [Welcome 欢迎](#Welcome-欢迎)
+2. [Contact 联系](#Contact-联系)
+3. [A note on my name 我的英文名](#a-note-on-my-name-我的英文名)
 
 # Welcome 欢迎
 
