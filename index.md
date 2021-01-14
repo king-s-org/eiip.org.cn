@@ -41,7 +41,7 @@ My real given name is 尚典 (shàng diǎn). However, my mom also gave me anothe
 
 I'm the chief poop-scooping officer for a cat named Tata. Here are some pictures of her:
 
-我是一位铲屎官，服务一只名为塔塔的猫。她的美照：
+我是一位铲屎官，服务一只名为塔塔的喵。她的美照：
 
 ![Tata1](assets/images/tata-1.jpg)
 ![Tata2](assets/images/tata-2.jpg)
