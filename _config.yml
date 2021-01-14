@@ -1,7 +1,10 @@
 title: "Shangdian (King) Han 韩尚典"
 description: "Hi."
 
-page1: "Welcome"
+page_title_1: "Welcome"
+page_title_2: "Coursework"
+page_title_3: "Teaching"
+page_title_4: "Projects"
 
 menu: <a href="/" style="color:#FFFFFF;">Home</a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework</a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching</a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects</a>
 menu1: <a href="/" style="color:#FFFFFF;"><b><u>Home</u></b></a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework</a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching</a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects</a>

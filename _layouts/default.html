@@ -28,11 +28,21 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
 
-      {% if page.title == site.page1 %}
-        <h2 class="project-tagline">{{ site.menu1 }}</h2>
+      <!-- Menus -->
+      {% if page.title == site.page_title_1 %}
+        <h2 class="project-tagline">{{ site.menu_1 }}</h2>
       {% endif %}
+      {% if page.title == site.page_title_2 %}
+        <h2 class="project-tagline">{{ site.menu_2 }}</h2>
+      {% endif %}
+      {% if page.title == site.page_title_3 %}
+        <h2 class="project-tagline">{{ site.menu_3 }}</h2>
+      {% endif %}
+      {% if page.title == site.page_title_4 %}
+        <h2 class="project-tagline">{{ site.menu_4 }}</h2>
+      {% endif %}
+      <!-- End Menus -->
 
-      <h2 class="project-tagline">{{ site.menu | default: site.menu | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
