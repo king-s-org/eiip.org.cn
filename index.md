@@ -6,7 +6,14 @@ Hello！我叫韩尚典，目前在加州伯克利读大三，选修数学+计�
 
 # Contact 联系
 
-Email 邮箱: kingh0730@berkeley.edu
+[[params.social]]
+	icon = "linkedin"
+	icon_pack = "fa"
+	link = "//linkedin.com/in/USERNAME"
+
+Email 邮箱：kingh0730@berkeley.edu
+WeChat 微信：qwertyuihao
+
 
 # A note on my name 我的英文名
 
