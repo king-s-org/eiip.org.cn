@@ -19,7 +19,7 @@ Here's a (incomplete) list of classes that I've taken at the University of Calif
 | *Math 数学* | |
 | Math 53 | Multivariable Calculus 多变量微积分 |
 | Math 54 | Linear Algebra and Differential Equations 线性代数与微分方程 |
-| Math H104 | Honors Introduction to Analysis 数学分析导论（荣誉课程） |
+| Math H104 | Honors Introduction to Analysis 数学分析荣誉导论 |
 | Math 105 | Second Course in Analysis (Multivariable Calculus and Lebesgue Theory) 分析第二课（多变量微积分与勒贝格理论） |
 | Math 185 | Introduction to Complex Analysis 复分析导论 |
 | Math 225A | Metamathematics (Model Theory) 元数学（模型论） |
