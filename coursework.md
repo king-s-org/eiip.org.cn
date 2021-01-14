@@ -15,7 +15,7 @@ Here's a (incomplete) list of classes that I've taken at the University of Calif
 以下是我在加州伯克利选修的（部分）课程：
 
 | Class 课程 | Title 标题 |
-| --- | --- |
+| :--- | --- |
 | **Math 数学** | |
 | Math 53 | Multivariable Calculus 多变量微积分 |
 | Math 54 | Linear Algebra and Differential Equations 线性代数与微分方程 |
