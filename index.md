@@ -2,7 +2,7 @@
 title: Home 主页
 ---
 
-# Table of contents
+# Table of contents 目录
 
 1. [Welcome 欢迎](#welcome-欢迎)
 2. [Contact 联系](#contact-联系)
@@ -33,7 +33,7 @@ WeChat QR Code 扫码添加微信：
 
 # A note on my name 我的英文名
 
-My real given name is 尚典 (shàng diǎn). However, my mom also gave me another name 金 (jīn), which is pronounced as "kim" in Korean. The most natural choice for my English name would be Jin or Kim. My mom liked neither and thought: How cool would it be if I name my son King? And that's how I got my name.
+My real given name is 尚典 (shàng diǎn). However, my mom also gave me another name 金 (jīn), which is pronounced as "kim" in Korean. The most natural choice for my English name would be Jin or Kim, but my mom liked neither and thought: How cool would it be if I name my son King? And that's how I got my name.
 
 我本名“韩尚典”，但是我妈给我起了个小名叫“韩金”。要上幼儿园了，取啥英文名呢？我妈觉得“Jin”也不好听，"Kim"也不好听。突然她一拍脑袋：那就叫“King”吧！于是我就叫King了。
 
