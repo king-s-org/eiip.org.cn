@@ -1,6 +1,9 @@
-1. [Welcome 欢迎](#Welcome-欢迎)
-2. [Contact 联系](#Contact-联系)
+> Table of contents
+
+1. [Welcome 欢迎](#welcome-欢迎)
+2. [Contact 联系](#contact-联系)
 3. [A note on my name 我的英文名](#a-note-on-my-name-我的英文名)
+4. [Tata 塔塔](#tata-塔塔)
 
 # Welcome 欢迎
 
@@ -10,7 +13,7 @@ Hello！我叫韩尚典，目前在加州伯克利读大三，选修数学+计�
 
 # Contact 联系
 
-Email 邮箱：[kingh0730@berkeley.edu](kingh0730@berkeley.edu)
+Email 邮箱：<kingh0730@berkeley.edu>
 
 [LinkedIn](https://www.linkedin.com/in/kingh0730/) &emsp; [GitHub](https://github.com/kingh0730) &emsp; [Twitter](https://twitter.com/kingh0730) &emsp; [Facebook](https://www.facebook.com/kinghan0730/) &emsp; [Instagram](https://www.instagram.com/kingh0730/) &emsp; [Bilibili](https://space.bilibili.com/23775735)
 
