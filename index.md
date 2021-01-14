@@ -28,5 +28,5 @@ I'm the chief poop-scooping officer for a cat named Tata. Here are some pictures
 
 我是一位铲屎官，服务一只名为塔塔的猫。她的美照：
 
-![Tata1](assets/images/tata-1.jpg =100x100)
-![Tata2](assets/images/tata-2.jpg =100*100)
+![Tata1](assets/images/tata-1.jpg)
+![Tata2](assets/images/tata-2.jpg)
