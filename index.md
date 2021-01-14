@@ -6,7 +6,7 @@ Hello！我叫韩尚典，目前在加州伯克利读大三，选修数学+计�
 
 # Contact 联系
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kingh0730/)
+[![Linkedin](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png?_ga=2.6337655.459076740.1610600327-1631800433.1610600327) LinkedIn](https://www.linkedin.com/in/kingh0730/)
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kingh0730)
 
