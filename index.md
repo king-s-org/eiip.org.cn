@@ -1,11 +1,6 @@
 ---
-title: my title
-author: my name
-date: today
+title: Welcome 欢迎
 ---
-
-
-% Welcome 欢迎
 
 > Table of contents
 
