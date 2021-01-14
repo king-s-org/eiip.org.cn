@@ -12,6 +12,7 @@ title: Coursework 课程
 
 Here's a (incomplete) list of classes that I've taken at the University of California, Berkeley:
 
+| Class | Title |
 | --- | --- |
 | **Math** | |
 | Math 53 | Multivariable Calculus |
