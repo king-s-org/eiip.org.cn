@@ -1,3 +1,10 @@
+---
+title: my title
+author: my name
+date: today
+---
+
+
 % Welcome 欢迎
 
 > Table of contents
@@ -6,6 +13,8 @@
 2. [Contact 联系](#contact-联系)
 3. [A note on my name 我的英文名](#a-note-on-my-name-我的英文名)
 4. [Tata 塔塔](#tata-塔塔)
+
+***
 
 # Welcome 欢迎
 
