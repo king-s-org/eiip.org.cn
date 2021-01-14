@@ -1,3 +1,6 @@
+1. [Welcome 欢迎](#Welcome欢迎)
+2. [Contact 联系](#Contact联系)
+
 # Welcome 欢迎
 
 Hi! My name is Shangdian Han. I go by King. I'm a junior studying math and CS at the University of California, Berkeley. In my free time, I like thinking about education and politics (in particular, anything related to China).
