@@ -6,7 +6,7 @@ Hello！我叫韩尚典，目前在加州伯克利读大三，选修数学+计�
 
 # Contact 联系
 
-[![Linkedin](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.39900647.459076740.1610600327-1631800433.1610600327) LinkedIn](https://www.linkedin.com/in/kingh0730/)
+[![Linkedin](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.39900647.459076740.1610600327-1631800433.1610600327)](https://www.linkedin.com/in/kingh0730/)
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kingh0730)
 
@@ -27,3 +27,6 @@ My real given name is 尚典 (shàng diǎn). However, my mom also gave me anothe
 I'm the chief poop-scooping officer for a cat named Tata. Here are some pictures of her:
 
 我是一位铲屎官，服务一只名为塔塔的猫。她的美照：
+
+![Tata1](assets/images/tata-1.jpg)]
+![Tata2](assets/images/tata-2.jpg)]
