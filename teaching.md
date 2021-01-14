@@ -11,20 +11,20 @@ title: Teaching 教学
 
 ***
 
-# Spring 2021
+# Spring 2021 春季
 
-## Undergraduate GSI for Data 8
+## Data 8 (Undergraduate GSI 本科生讲师)
 
 Hey, are you taking Data 8 this semester? I will post useful resources here in the near future. Stay tuned.
 
-# Fall 2020
+# Fall 2020 秋季
 
-## Tutor for Data 8
+## Data 8 (Tutor 导师)
 
-# Spring 2020
+# Spring 2020 春季
 
-## Reader for CS 70
+## CS 70 (Reader 导师)
 
-# Fall 2019
+# Fall 2019 秋季
 
-## Academic Intern for Data 8
+## Data 8 (Academic Intern 学术实习生)
