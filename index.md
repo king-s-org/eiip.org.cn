@@ -11,7 +11,13 @@ Hello！我叫韩尚典，目前在加州伯克利读大三，选修数学+计�
 	icon_pack = "fa"
 	link = "//linkedin.com/in/USERNAME"
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
+
 Email 邮箱：kingh0730@berkeley.edu
+
 WeChat 微信：qwertyuihao
 
 
