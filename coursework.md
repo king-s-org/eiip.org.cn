@@ -19,26 +19,17 @@ Here's a (incomplete) list of classes that I've taken at the University of Calif
 | Math H104 | Honors Introduction to Analysis |
 | Math 105 | Second Course in Analysis |
 | Math 185 | Introduction to Complex Analysis |
-| Math 225A | Metamathematics |
-
-CS
-
-| --- | --- |
+| Math 225A | Metamathematics (Model Theory) |
+| **CS** | |
 | Data 8 | Foundations of Data Science |
 | CS 61A | The Structure and Interpretation of Computer Programs |
 | CS 61B | Data Structures |
 | CS 70 | Discrete Mathematics and Probability Theory |
-
-Philosophy
-
-| --- | --- |
+| **Philosophy** | |
 | Philosophy R1B | Reading and Composition Through Philosophy (Mind and Cognition) |
 | Philosophy 146 | Philosophy of Mathematics |
 | Philosophy 148 | Probability and Induction |
-
-Others
-
-| --- | --- |
+| **Others** | |
 | CS 370 | Adaptive Instruction Methods in Computer Science |
 | MCB 61 | Brain, Mind, and Behavior |
 | Geography 20 | Globalization |
