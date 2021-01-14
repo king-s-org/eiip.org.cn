@@ -1,14 +1,14 @@
 ---
-title: Coursework 课程
+title: Coursework 课业
 ---
 
 # Table of contents 目录
 
-1. [Coursework 课程](#coursework-课程)
+1. [Coursework 课业](#coursework-课业)
 
 ***
 
-# Coursework 课程
+# Coursework 课业
 
 Here's a (incomplete) list of classes that I've taken at the University of California, Berkeley:
 
