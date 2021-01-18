@@ -10,36 +10,12 @@ title: Projects 项目
 
 # EIIP
 
-EIIP (Elite International Integration Program)
+EIIP (Elite International Integration Program) is an international education program founded by me and some friends of mine.
 
-Bla
+EIIP是我和朋友创立的国际教育项目。
 
-Bla
+WeChat QR Code:
 
-Bla
+扫码关注微信公众号：
 
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
-
-Bla
+![EIIP QR](assets/images/eiip-qr.jpg)
