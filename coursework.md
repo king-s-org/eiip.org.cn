@@ -10,7 +10,7 @@ title: Coursework 课业
 
 # Coursework 课业
 
-Here's a (incomplete) list of classes that I've taken at the University of California, Berkeley:
+Here's an (incomplete) list of classes that I've taken at the University of California, Berkeley:
 
 以下是我在加州伯克利选修的（部分）课程：
 

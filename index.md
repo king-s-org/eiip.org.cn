@@ -13,9 +13,9 @@ title: Home 主页
 
 # Welcome 欢迎
 
-Hi! My name is Shangdian Han. I go by King. I'm a junior studying math and CS at the University of California, Berkeley. In my free time, I like thinking about education and politics (in particular, anything related to China).
+Hi! My name is Shangdian Han. I go by King. I'm studying math and CS at the University of California, Berkeley. In my free time, I like thinking about education and politics (in particular, anything related to China).
 
-Hello！我叫韩尚典，目前在加州伯克利读大三，选修数学+计算机双专业。业余时间，我喜欢思考教育与政治（尤其是与中国有关的）。
+Hello！我叫韩尚典，就读于加州伯克利，选修数学+计算机双专业。业余时间，我喜欢思考教育与政治（尤其是与中国有关的）。
 
 ![WeChat QR](assets/images/me.jpg)
 
