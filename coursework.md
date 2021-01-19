@@ -20,7 +20,7 @@ Here's a (incomplete) list of classes that I've taken at the University of Calif
 | Math 53 | Multivariable Calculus 多变量微积分 |
 | Math 54 | Linear Algebra and Differential Equations 线性代数与微分方程 |
 | Math H104 | Honors Introduction to Analysis 数学分析荣誉导论 |
-| Math 105 | Second Course in Analysis (Multivariable Calculus and Lebesgue Theory) 分析第二课（多变量微积分与勒贝格理论） |
+| Math 105 | Second Course in Analysis (Multivariable Calculus and Lebesgue Theory) 数学分析第二课（多变量微积分与勒贝格理论） |
 | Math 185 | Introduction to Complex Analysis 复分析导论 |
 | Math 225A | Metamathematics (Model Theory) 元数学（模型论） |
 | *CS 计算机科学* | |
@@ -29,7 +29,7 @@ Here's a (incomplete) list of classes that I've taken at the University of Calif
 | CS 61B | Data Structures 数据结构 |
 | CS 70 | Discrete Mathematics and Probability Theory 离散数学与概率论 |
 | *Philosophy 哲学* | |
-| Philosophy R1B | Reading and Composition Through Philosophy (Mind and Cognition) 通过哲学阅读并理解（心灵与认知）|
+| Philosophy R1B | Reading and Composition Through Philosophy (Mind and Cognition) 通过哲学阅读并写作（心灵与认知）|
 | Philosophy 146 | Philosophy of Mathematics 数学哲学 |
 | Philosophy 148 | Probability and Induction 概率与归纳 |
 | *Others 其他* | |
