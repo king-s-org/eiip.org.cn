@@ -30,7 +30,7 @@ title: Teaching 教学
 ### Resources
 [Interactive Table Function Visualizer](http://data8.org/interactive_table_functions/)
 
-### Discussions
+### Discussion worksheets
 [Worksheet 02](https://docs.google.com/document/d/1eI0QKyKgN0d5uAHhXE4kHq07fY5PW7X-bbwba8tfUKw/edit?usp=sharing)
 
 # Fall 2020 秋季
