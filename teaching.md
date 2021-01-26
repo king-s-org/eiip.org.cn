@@ -15,14 +15,16 @@ title: Teaching 教学
 
 ## Data 8 (Undergraduate GSI 本科生讲师)
 
-Course Website
+###Course Website
 <http://data8.org/sp21/>
-Discussion: Monday 7 pm - 8 pm
+
+###Discussion: Monday 7 pm - 8 pm
 <https://berkeley.zoom.us/j/6870742279>
-Lab: Friday 9 am - 10 am
-Held together with Ruhi Doshi
+
+###Lab: Friday 9 am - 10 am with Ruhi Doshi
 <https://berkeley.zoom.us/j/92480443461>
-OH: Friday 7 pm - 8 pm
+
+###OH: Friday 7 pm - 8 pm
 <https://oh.data8.org/>
 
 # Fall 2020 秋季
