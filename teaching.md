@@ -21,11 +21,14 @@ title: Teaching 教学
 ### Discussion: Monday 7 pm - 8 pm
 <https://berkeley.zoom.us/j/6870742279>
 
-### Lab: Friday 9 am - 10 am with Ruhi Doshi
+### Lab: Friday 9 am - 10 am (with Ruhi Doshi)
 <https://berkeley.zoom.us/j/92480443461>
 
 ### OH: Friday 7 pm - 8 pm
 <https://oh.data8.org/>
+
+### Resources
+![Interactive Table Function Visualizer](http://data8.org/interactive_table_functions/)
 
 # Fall 2020 秋季
 
