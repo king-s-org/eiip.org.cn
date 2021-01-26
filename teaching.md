@@ -28,7 +28,7 @@ title: Teaching 教学
 <https://oh.data8.org/>
 
 ### Resources
-![Interactive Table Function Visualizer](http://data8.org/interactive_table_functions/)
+[Interactive Table Function Visualizer](http://data8.org/interactive_table_functions/)
 
 # Fall 2020 秋季
 
