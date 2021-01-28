@@ -18,11 +18,11 @@ title: Teaching 教学
 ### Course website
 <http://data8.org/sp21/>
 
-### My OH: Friday 7 pm - 8 pm
-<https://oh.data8.org/>
-
 ### Resources
 [Interactive Table Function Visualizer](http://data8.org/interactive_table_functions/)
+
+### My OH: Friday 7 pm - 8 pm
+<https://oh.data8.org/>
 
 ### Lab: Friday 9 am - 10 am (with Ruhi Doshi)
 **Academic Interns**: Angeline Yundi Yang, Audrey Im, Cara Dong, Elleanor Wong, Kavya Marrapu, Tae Hyung Kim.
