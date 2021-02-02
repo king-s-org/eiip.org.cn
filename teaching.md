@@ -32,6 +32,8 @@ title: Teaching 教学
 ### Discussion: Monday 7 pm - 8 pm
 <https://berkeley.zoom.us/j/6870742279>
 
+**Discussion group chat**: Add my [Facebook](https://www.facebook.com/kinghan0730/) to join.
+
 | Original worksheets | Worksheet solutions | In-class notes |
 | --- | --- | --- |
 | [Disc 02 Worksheet](https://docs.google.com/document/d/1V-8nZLu7T-R1l85WrD7nTcCardj6L7tnZkYmReuboDY/edit?usp=sharing) | [Disc 02 Solution](https://docs.google.com/document/d/1c75_upPwh2Dy4wDBky8G_jeW4RYIrbp0Cwdw1zlYkgU/edit?usp=sharing) | [Disc 02 Note](https://docs.google.com/document/d/1eI0QKyKgN0d5uAHhXE4kHq07fY5PW7X-bbwba8tfUKw/edit?usp=sharing) |
