@@ -25,9 +25,10 @@ title: Teaching 教学
 <https://oh.data8.org/>
 
 ### Lab: Friday 9 am - 10 am (with Ruhi Doshi)
-**Academic Interns**: Angeline Yundi Yang, Audrey Im, Cara Dong, Elleanor Wong, Kavya Marrapu, Tae Hyung Kim.
 
 <https://berkeley.zoom.us/j/92480443461>
+
+**Academic Interns**: Angeline Yundi Yang, Audrey Im, Cara Dong, Elleanor Wong, Kavya Marrapu, Tae Hyung Kim.
 
 ### Discussion: Monday 7 pm - 8 pm
 <https://berkeley.zoom.us/j/6870742279>
