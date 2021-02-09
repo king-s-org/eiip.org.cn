@@ -38,7 +38,8 @@ title: Teaching 教学
 | Original worksheets | Worksheet solutions | In-class notes |
 | --- | --- | --- |
 | [Disc 02 Worksheet](https://docs.google.com/document/d/1V-8nZLu7T-R1l85WrD7nTcCardj6L7tnZkYmReuboDY/edit?usp=sharing) | [Disc 02 Solution](https://docs.google.com/document/d/1c75_upPwh2Dy4wDBky8G_jeW4RYIrbp0Cwdw1zlYkgU/edit?usp=sharing) | [Disc 02 Note](https://docs.google.com/document/d/1eI0QKyKgN0d5uAHhXE4kHq07fY5PW7X-bbwba8tfUKw/edit?usp=sharing) |
-| [Disc 03 Worksheet](https://docs.google.com/document/d/102IL5n0VRsYPLaJWb9L5H87MQ46ZL6xK3TPpwzongfA/edit?usp=sharing) | | [Disc 03 Note](https://docs.google.com/document/d/10BMUsTtit78IA_Qp1U09HwG77RR-ZFJD9BL4-A6W-QI/edit?usp=sharing)|
+| [Disc 03 Worksheet](https://docs.google.com/document/d/102IL5n0VRsYPLaJWb9L5H87MQ46ZL6xK3TPpwzongfA/edit?usp=sharing) | [Disc 03 Solution](https://docs.google.com/document/d/1BtPlfjWIw0MF-ILh8exrxI7V52VEkPK5df3awebp280/edit?usp=sharing) | [Disc 03 Note](https://docs.google.com/document/d/10BMUsTtit78IA_Qp1U09HwG77RR-ZFJD9BL4-A6W-QI/edit?usp=sharing) |
+| [Disc 04 Worksheet](https://docs.google.com/document/d/1sUDRoAy5mSPD2eXAAvf8gsJ8fKTAYz3BBJM57-ijDeY/edit?usp=sharing) | | [Disc 04 Note](https://docs.google.com/document/d/1nNCJ1-mLi5l39irv16UMrlov9tSGOYVRnCveaT6HB6c/edit?usp=sharing) |
 
 # Fall 2020 秋季
 
