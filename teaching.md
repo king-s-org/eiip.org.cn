@@ -20,6 +20,7 @@ title: Teaching 教学
 
 ### Resources
 [Interactive Table Function Visualizer](http://data8.org/interactive_table_functions/)
+
 [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
 
 ### My OH: Friday 7 pm - 8 pm
