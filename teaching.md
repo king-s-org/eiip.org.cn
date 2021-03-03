@@ -23,7 +23,7 @@ title: Teaching 教学
 
 [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
 
-### My OH: Friday 7 pm - 8 pm
+### My OH: Friday 8 pm - 9 pm
 <https://oh.data8.org/>
 
 ### Lab: Friday 9 am - 10 am (with Ruhi Doshi)
