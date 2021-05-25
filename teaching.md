@@ -41,7 +41,7 @@ Academic Interns:
 ### Discussion: Monday 7 pm - 8 pm
 <https://berkeley.zoom.us/j/6870742279>
 
-**Discussion group chat**: Add my [Facebook](https://www.facebook.com/kinghan0730/) to join.
+Discussion group chat: Add my [Facebook](https://www.facebook.com/kinghan0730/) to join.
 
 | Original worksheets | In-class notes | Worksheet solutions |
 | --- | --- | --- |
