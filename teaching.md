@@ -30,7 +30,13 @@ title: Teaching 教学
 
 <https://berkeley.zoom.us/j/92480443461>
 
-**Academic Interns**: Angeline Yundi Yang, Audrey Im, Cara Dong, Elleanor Wong, Kavya Marrapu, Tae Hyung Kim.
+Academic Interns:
+- Angeline Yundi Yang
+- Audrey Im
+- Cara Dong
+- Elleanor Wong
+- Kavya Marrapu
+- Tae Hyung Kim
 
 ### Discussion: Monday 7 pm - 8 pm
 <https://berkeley.zoom.us/j/6870742279>
