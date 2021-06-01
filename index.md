@@ -23,7 +23,7 @@ Hello！我叫韩尚典，就读于加州伯克利，选修数学+计算机双�
 
 Email 邮箱：<kingh0730@berkeley.edu>
 
-[LinkedIn](https://www.linkedin.com/in/kingh0730/) &emsp; [GitHub](https://github.com/kingh0730) &emsp; [Twitter](https://twitter.com/kingh0730) &emsp; [Facebook](https://www.facebook.com/kinghan0730/) &emsp; [Instagram](https://www.instagram.com/kingh0730/) &emsp; [Bilibili](https://space.bilibili.com/23775735)
+[LinkedIn](https://www.linkedin.com/in/kingh0730/) &emsp; [GitHub](https://github.com/kingh0730) &emsp; [Twitter](https://twitter.com/kingh0730) &emsp; [Facebook](https://www.facebook.com/kinghan0730/) &emsp; [Instagram](https://www.instagram.com/kingh0730/) &emsp; [YouTube](https://www.youtube.com/channel/UCD16xKG3u2KBbcToNoqcKVA) &emsp; [Bilibili](https://space.bilibili.com/23775735)
 
 WeChat/微信/QQ：767673599
 
