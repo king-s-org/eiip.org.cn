@@ -1,29 +1,24 @@
 ---
 title: Teaching 教学
+layout: default
 ---
-
-# Table of contents 目录
-
-1. [Spring 2021 春季](#spring-2021-春季)
-2. [Fall 2020 秋季](#fall-2020-秋季)
-3. [Spring 2020 春季](#spring-2020-春季)
-4. [Fall 2019 秋季](#fall-2019-秋季)
-
-***
 
 # Spring 2021 春季
 
 ## Data 8 (Undergraduate GSI 本科生讲师)
 
 ### Course website
+
 <http://data8.org/sp21/>
 
 ### Resources
+
 [Interactive Table Function Visualizer](http://data8.org/interactive_table_functions/)
 
 [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
 
 ### My OH: Friday 8 pm - 9 pm
+
 <https://oh.data8.org/>
 
 ### Lab: Friday 9 am - 10 am (with Ruhi Doshi)
@@ -31,6 +26,7 @@ title: Teaching 教学
 <https://berkeley.zoom.us/j/92480443461>
 
 Academic Interns:
+
 - Angeline Yundi Yang
 - Audrey Im
 - Cara Dong
@@ -39,16 +35,17 @@ Academic Interns:
 - Tae Hyung Kim
 
 ### Discussion: Monday 7 pm - 8 pm
+
 <https://berkeley.zoom.us/j/6870742279>
 
 Discussion group chat: Add my [Facebook](https://www.facebook.com/kinghan0730/) to join.
 
-| Original worksheets | In-class notes | Worksheet solutions |
-| --- | --- | --- |
+| Original worksheets                                                                                                   | In-class notes                                                                                                   | Worksheet solutions                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | [Disc 02 Worksheet](https://docs.google.com/document/d/1V-8nZLu7T-R1l85WrD7nTcCardj6L7tnZkYmReuboDY/edit?usp=sharing) | [Disc 02 Note](https://docs.google.com/document/d/1eI0QKyKgN0d5uAHhXE4kHq07fY5PW7X-bbwba8tfUKw/edit?usp=sharing) | [Disc 02 Solution](https://docs.google.com/document/d/1c75_upPwh2Dy4wDBky8G_jeW4RYIrbp0Cwdw1zlYkgU/edit?usp=sharing) |
 | [Disc 03 Worksheet](https://docs.google.com/document/d/102IL5n0VRsYPLaJWb9L5H87MQ46ZL6xK3TPpwzongfA/edit?usp=sharing) | [Disc 03 Note](https://docs.google.com/document/d/10BMUsTtit78IA_Qp1U09HwG77RR-ZFJD9BL4-A6W-QI/edit?usp=sharing) | [Disc 03 Solution](https://docs.google.com/document/d/1BtPlfjWIw0MF-ILh8exrxI7V52VEkPK5df3awebp280/edit?usp=sharing) |
 | [Disc 04 Worksheet](https://docs.google.com/document/d/1sUDRoAy5mSPD2eXAAvf8gsJ8fKTAYz3BBJM57-ijDeY/edit?usp=sharing) | [Disc 04 Note](https://docs.google.com/document/d/1nNCJ1-mLi5l39irv16UMrlov9tSGOYVRnCveaT6HB6c/edit?usp=sharing) | [Disc 04 Solution](https://docs.google.com/document/d/1IIT7hUCAAwEPAd32lMLAymHUqMSxDMH7_DiWas2MCjM/edit?usp=sharing) |
-| [Disc 05 Worksheet](https://docs.google.com/document/d/1GaNc4ezC7IFYSiyaiSv09S3fVukgEAd-4tQHUgOrTrU/edit?usp=sharing) | Holiday | [Disc 05 Solution](https://docs.google.com/document/d/18BP3bfqRvW6u9L0NxlsUBboFMjcTasty4uVdbOY_Kh0/edit?usp=sharing) |
+| [Disc 05 Worksheet](https://docs.google.com/document/d/1GaNc4ezC7IFYSiyaiSv09S3fVukgEAd-4tQHUgOrTrU/edit?usp=sharing) | Holiday                                                                                                          | [Disc 05 Solution](https://docs.google.com/document/d/18BP3bfqRvW6u9L0NxlsUBboFMjcTasty4uVdbOY_Kh0/edit?usp=sharing) |
 | [Disc 06 Worksheet](https://docs.google.com/document/d/1tzBR9Hh79bwoOrvYg3nikGWkR5qudlPeeeWBwqph438/edit?usp=sharing) | [Disc 06 Note](https://docs.google.com/document/d/1a7uxVwTnkY8K7TgWE25GTBOHFkSN4YuPvBHUy_4KVB8/edit?usp=sharing) | [Disc 06 Solution](https://docs.google.com/document/d/1cUQtQG5rzSHnU-rtVpYO4QHN__MHYVbhrQqbtwQDONo/edit?usp=sharing) |
 | [Disc 07 Worksheet](https://docs.google.com/document/d/1mJY9ryT0FH1OrAKP5sy0Vz6rSapb1z05JYHpCwvgzOw/edit?usp=sharing) | [Disc 07 Note](https://docs.google.com/document/d/1MRLQzJaY3rRz_hzrUUQ-jxLW7t_q1v41Q03rU3nPmsQ/edit?usp=sharing) | [Disc 07 Solution](https://docs.google.com/document/d/1g26FCQwj3pSYdLiHkTNAyn3Ew4SYrgLf8jQnuM4B41U/edit?usp=sharing) |
 | [Disc 08 Worksheet](https://docs.google.com/document/d/1I-wD8OdFpWkosHBsl4ySIxuO_t-nOYkTynIXcxKtOYw/edit?usp=sharing) | [Disc 08 Note](https://docs.google.com/document/d/14AOCMeQRap2c_UUcyUnRf1mC-tjLHSVz5n0Ca6gW_Dk/edit?usp=sharing) | [Disc 08 Solution](https://docs.google.com/document/d/19ReOW8d7Klq9XFk0wLuM9SRW1GzGNYNdo5iE9wj1meQ/edit?usp=sharing) |
