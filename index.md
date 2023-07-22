@@ -3,6 +3,8 @@ title: Home
 layout: default
 ---
 
+<!-- Should be consistent with README.md -->
+
 ## Hi there! 👋
 
 I'm Shangdian (King) Han.

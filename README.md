@@ -1,3 +1,5 @@
+<!-- Should be consistent with index.md -->
+
 # Hi there! 👋
 
 I'm Shangdian (King) Han.
