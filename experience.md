@@ -12,7 +12,7 @@ layout: default
 
 ### Links
 
-- [Spreadsheet Intelligence @ Microsoft Research](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/ "Spreadsheet Intelligence")
+- 🔭 [Spreadsheet Intelligence @ Microsoft Research](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/ "Spreadsheet Intelligence")
 
 ## Berkeley Wireless Research Center (BWRC) ML Discovery
 
@@ -22,6 +22,6 @@ layout: default
 
 ### Links
 
-- [GitHub organization](https://github.com/BWRC-AMS-ML-Discovery "BWRC-AMS-ML-Discovery")
-- [Runner-up for the Cloud Computing Application Award at the Spring 2023 cohort of Discovery (UC Berkeley Data Science)](https://data.berkeley.edu/spring-2023-data-science-discovery-showcase-highlights "Spring 2023 Data Science Discovery Showcase Highlights")
-- [Download posters](https://drive.google.com/drive/folders/1b1sjmVJH7EwcdUiGcZRs_Y35F_5HFe8X "Posters")
+- 🐈‍⬛ [GitHub organization](https://github.com/BWRC-AMS-ML-Discovery "BWRC-AMS-ML-Discovery")
+- 🎓 [Runner-up for the Cloud Computing Application Award at the Spring 2023 cohort of Discovery (UC Berkeley Data Science)](https://data.berkeley.edu/spring-2023-data-science-discovery-showcase-highlights "Spring 2023 Data Science Discovery Showcase Highlights")
+- 📂 [Download posters](https://drive.google.com/drive/folders/1b1sjmVJH7EwcdUiGcZRs_Y35F_5HFe8X "Posters")
