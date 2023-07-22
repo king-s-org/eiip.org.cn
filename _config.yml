@@ -51,6 +51,6 @@ menu_4: >
   <a href="projects" style="color:#FFFFFF;"><b><u>Projects</u></b></a>
 
 show_github_header: false
-show_github_footer: true
+show_github_footer: false
 
 theme: jekyll-theme-cayman
