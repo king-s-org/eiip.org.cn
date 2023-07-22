@@ -23,9 +23,32 @@ menu_1: >
   &emsp;
   <a href="projects" style="color:#FFFFFF;">Projects</a>
 
-menu_2: <a href="/" style="color:#FFFFFF;">Home</a>&emsp;<a href="coursework" style="color:#FFFFFF;"><b><u>Coursework</u></b></a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching</a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects</a>
-menu_3: <a href="/" style="color:#FFFFFF;">Home</a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework</a>&emsp;<a href="teaching" style="color:#FFFFFF;"><b><u>Teaching</u></b></a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects</a>
-menu_4: <a href="/" style="color:#FFFFFF;">Home</a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework</a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching</a>&emsp;<a href="projects" style="color:#FFFFFF;"><b><u>Projects</u></b></a>
+menu_2: >
+  <a href="/" style="color:#FFFFFF;">Home</a>
+  &emsp;
+  <a href="coursework" style="color:#FFFFFF;"><b><u>Coursework</u></b></a>
+  &emsp;
+  <a href="teaching" style="color:#FFFFFF;">Teaching</a>
+  &emsp;
+  <a href="projects" style="color:#FFFFFF;">Projects</a>
+
+menu_3: >
+  <a href="/" style="color:#FFFFFF;">Home</a>
+  &emsp;
+  <a href="coursework" style="color:#FFFFFF;">Coursework</a>
+  &emsp;
+  <a href="teaching" style="color:#FFFFFF;"><b><u>Teaching</u></b></a>
+  &emsp;
+  <a href="projects" style="color:#FFFFFF;">Projects</a>
+
+menu_4: >
+  <a href="/" style="color:#FFFFFF;">Home</a>
+  &emsp;
+  <a href="coursework" style="color:#FFFFFF;">Coursework</a>
+  &emsp;
+  <a href="teaching" style="color:#FFFFFF;">Teaching</a>
+  &emsp;
+  <a href="projects" style="color:#FFFFFF;"><b><u>Projects</u></b></a>
 
 show_github_header: false
 show_github_footer: true
