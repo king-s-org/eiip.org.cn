@@ -2,7 +2,7 @@
 
 I'm Shangdian (King) Han.
 
-- 🔭 Prev [@microsoft](https://github.com/microsoft/ 'Microsoft') research
+- 🔭 Prev [@Microsoft](https://github.com/microsoft/ 'Microsoft') Research
 - 🏰 Prev [@Huawei](https://github.com/Huawei/ 'Huawei')
 - 🌱 UC Berkeley - CS & Math
 - 😊 [My Personal Website](https://kinghan.info/ 'Shangdian (King) Han')
