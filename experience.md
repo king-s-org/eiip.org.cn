@@ -16,6 +16,8 @@ layout: default
 
 - 🔭 [Spreadsheet Intelligence @ Microsoft Research](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/ "Spreadsheet Intelligence")
 
+---
+
 ## 💫 Berkeley Wireless Research Center (BWRC)
 
 ### Researcher
@@ -34,4 +36,6 @@ layout: default
 
 ---
 
-> More experience can be found on my [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han") profile.
+## 👔 Additional Experience
+
+> More experience can be found on my [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han").
