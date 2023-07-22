@@ -3,11 +3,6 @@ title: Experience
 layout: default
 ---
 
-- [🪟 Microsoft Research](#-microsoft-research)
-  - [Research Fellow](#research-fellow)
-- [💫 Berkeley Wireless Research Center (BWRC)](#-berkeley-wireless-research-center-bwrc)
-  - [Researcher](#researcher)
-
 ## 🪟 Microsoft Research
 
 ![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
