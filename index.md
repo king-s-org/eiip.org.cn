@@ -13,6 +13,8 @@ I believe high-quality code generation AI will be the most important development
 
 That's why I'm building an LLM agent customization platform to enhance the SOTA in code generation AI.
 
+- Email: <kingh0730@berkeley.edu>
+- 🐙 [GitHub](https://github.com/kingh0730 'Shangdian (King) Han')
 - 🔭 Prev [@Microsoft](https://github.com/microsoft/ 'Microsoft') Research
 - 🏰 Prev [@Huawei](https://github.com/Huawei/ 'Huawei')
 - 🌱 UC Berkeley - CS & Math
