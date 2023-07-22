@@ -5,9 +5,9 @@ layout: default
 
 ## 🪟 Microsoft Research
 
-![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
-
 ### Research Fellow
+
+![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
 
 - Used TypeScript and C# to prototype the new Office AI for Excel.
 - Used TensorFlow to improve a key ML classification model (LSTM + CRF). Increased F1 score from 72 to 77.
@@ -18,11 +18,11 @@ layout: default
 
 ## 💫 Berkeley Wireless Research Center (BWRC)
 
-![Poster](assets/images/AMS_ML_Poster.png)
+### Researcher
 
 <!-- <iframe src="https://cktgym-1.web.app/" title="CktGym" width="100%" height="500" allowfullscreen></iframe> -->
 
-### Researcher
+![Poster](assets/images/AMS_ML_Poster.png)
 
 - Led a team of 5 researchers to develop a client-server interaction framework for circuit design and a reinforcement-learning library for circuit optimization.
 

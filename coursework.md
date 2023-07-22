@@ -3,8 +3,9 @@ title: Coursework
 layout: default
 ---
 
+## University of California, Berkeley
 
-Here's an (incomplete) list of classes that I've taken at the University of California, Berkeley:
+Here's an (incomplete) list of classes that I've taken:
 
 | Class                  | Title                                                                  |
 | :--------------------- | ---------------------------------------------------------------------- |
