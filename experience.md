@@ -31,3 +31,7 @@ layout: default
 - 🐈‍⬛ [GitHub organization](https://github.com/BWRC-AMS-ML-Discovery "BWRC-AMS-ML-Discovery")
 - 🎓 [Runner-up for the Cloud Computing Application Award at the Spring 2023 cohort of Discovery (UC Berkeley Data Science)](https://data.berkeley.edu/spring-2023-data-science-discovery-showcase-highlights "Spring 2023 Data Science Discovery Showcase Highlights")
 - 📂 [Download posters](https://drive.google.com/drive/folders/1b1sjmVJH7EwcdUiGcZRs_Y35F_5HFe8X "Posters")
+
+---
+
+> More experience can be found on my [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han") profile.
