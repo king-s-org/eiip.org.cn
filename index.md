@@ -3,37 +3,19 @@ title: Home
 layout: default
 ---
 
-# Welcome 欢迎
+## Hi there! 👋
 
-Hi! My name is Shangdian Han. I go by King. I'm studying math and CS at the University of California, Berkeley. In my free time, I like thinking about education and politics (in particular, anything related to China).
+I'm Shangdian (King) Han.
 
-Hello！我叫韩尚典，就读于加州伯克利，选修数学+计算机双专业。业余时间，我喜欢思考教育与政治（尤其是与中国有关的）。
+At Microsoft Research, I prototyped the new Office AI for Excel.
 
-![WeChat QR](assets/images/me.jpg)
+I believe high-quality code generation AI will be the most important development for human civilization in the near future, for the simple reason that code shapes our world today.
 
-# Contact 联系
+That's why I'm building an LLM agent customization platform to enhance the SOTA in code generation AI.
 
-Email 邮箱：<kingh0730@berkeley.edu>
-
-[LinkedIn](https://www.linkedin.com/in/kingh0730/) &emsp; [GitHub](https://github.com/kingh0730) &emsp; [Twitter](https://twitter.com/kingh0730) &emsp; [Facebook](https://www.facebook.com/kinghan0730/) &emsp; [Instagram](https://www.instagram.com/kingh0730/) &emsp; [YouTube](https://www.youtube.com/channel/UCD16xKG3u2KBbcToNoqcKVA) &emsp; [Bilibili](https://space.bilibili.com/23775735)
-
-WeChat/微信/QQ：767673599
-
-WeChat QR Code 扫码添加微信：
-
-![WeChat QR](assets/images/wechat-qr.jpeg)
-
-# A note on my name 我的英文名
-
-My real given name is 尚典 (shàng diǎn). However, my mom also gave me another name 金 (jīn), which is pronounced as "kim" in Korean. The most natural choice for my English name would be Jin or Kim, but my mom liked neither and thought: How cool would it be if I name my son King? And that's how I got my name.
-
-我本名“韩尚典”，但是我妈给我起了个小名叫“韩金”。要上幼儿园了，取啥英文名呢？我妈觉得“Jin”也不好听，"Kim"也不好听。突然她一拍脑袋：那就叫“King”吧！于是我就叫 King 了。
-
-# Tata 塔塔
-
-I'm the chief poop-scooping officer for a cat named Tata. Here are some pictures of her:
-
-我是一位铲屎官，服务一只名为塔塔的喵。她的美照：
-
-![Tata1](assets/images/tata-1.jpg)
-![Tata2](assets/images/tata-2.jpg)
+- 🔭 Prev [@Microsoft](https://github.com/microsoft/ 'Microsoft') Research
+- 🏰 Prev [@Huawei](https://github.com/Huawei/ 'Huawei')
+- 🌱 UC Berkeley - CS & Math
+- 😊 [My Personal Website](https://kinghan.info/ 'Shangdian (King) Han')
+- 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ 'Shangdian (King) Han')
+- 🕊️ [Twitter](https://twitter.com/kingh0730/ 'kingh0730')
