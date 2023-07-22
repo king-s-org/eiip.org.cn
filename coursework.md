@@ -19,7 +19,10 @@ Here's an (incomplete) list of classes that I've taken at the University of Cali
 | Data 8             | Foundations of Data Science                                            |
 | CS 61A             | The Structure and Interpretation of Computer Programs                  |
 | CS 61B             | Data Structures                                                        |
+| CS 61C             | Great Ideas of Computer Architecture (Machine Structures)              |
 | CS 70              | Discrete Mathematics and Probability Theory                            |
+| CS 161             | Computer Security                                                      |
+| EECS 127           | Optimization Models in Engineering                                     |
 | _Philosophy_       |                                                                        |
 | Philosophy R1B     | Reading and Composition Through Philosophy (Mind and Cognition)        |
 | Philosophy 146     | Philosophy of Mathematics                                              |
