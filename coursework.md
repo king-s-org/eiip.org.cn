@@ -27,7 +27,7 @@ Here's an (incomplete) list of classes that I've taken at the University of Cali
 | Philosophy R1B         | Reading and Composition Through Philosophy (Mind and Cognition)        |
 | Philosophy 146         | Philosophy of Mathematics                                              |
 | Philosophy 148         | Probability and Induction                                              |
-| ☁️ _Others_           |                                                                        |
+| 🧬 _Others_           |                                                                        |
 | CS 370                 | Adaptive Instruction Methods in Computer Science                       |
 | MCB 61                 | Brain, Mind, and Behavior                                              |
 | Geography 20           | Globalization                                                          |
