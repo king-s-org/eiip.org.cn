@@ -2,7 +2,7 @@
 
 I'm Shangdian (King) Han.
 
-- 🔭 Microsoft Research - Research Intern
+- 🔭 Prev @microsoft research
 - 🌱 UC Berkeley - CS & Math
 - 😊 [My Personal Website](https://kinghan.info/ 'Shangdian (King) Han')
 - 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ 'Shangdian (King) Han')
