@@ -3,6 +3,11 @@ title: Experience
 layout: default
 ---
 
+- [🪟 Microsoft Research](#-microsoft-research)
+  - [Research Fellow](#research-fellow)
+- [💫 Berkeley Wireless Research Center (BWRC)](#-berkeley-wireless-research-center-bwrc)
+  - [Researcher](#researcher)
+
 ## 🪟 Microsoft Research
 
 ![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
@@ -12,7 +17,7 @@ layout: default
 - Used TypeScript and C# to prototype the new Office AI for Excel.
 - Used TensorFlow to improve a key ML classification model (LSTM + CRF). Increased F1 score from 72 to 77.
 
-#### Links
+**Links**
 
 - 🔭 [Spreadsheet Intelligence @ Microsoft Research](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/ "Spreadsheet Intelligence")
 
@@ -26,7 +31,7 @@ layout: default
 
 - Led a team of 5 researchers to develop a client-server interaction framework for circuit design and a reinforcement-learning library for circuit optimization.
 
-#### Links
+**Links**
 
 - 🐈‍⬛ [GitHub organization](https://github.com/BWRC-AMS-ML-Discovery "BWRC-AMS-ML-Discovery")
 - 🎓 [Runner-up for the Cloud Computing Application Award at the Spring 2023 cohort of Discovery (UC Berkeley Data Science)](https://data.berkeley.edu/spring-2023-data-science-discovery-showcase-highlights "Spring 2023 Data Science Discovery Showcase Highlights")
