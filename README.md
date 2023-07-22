@@ -2,11 +2,11 @@
 
 I'm Shangdian (King) Han.
 
-I played a key role in developing Microsoft's Office AI.
+At Microsoft Research, I prototyped the new Office AI for Excel.
 
-High-quality code generation will be the most important development for human civilization in the near future, for the simple reason that code shapes our world today.
+High-quality code generation AI will be the most important development for human civilization in the near future, for the simple reason that code shapes our world today.
 
-I'm building an LLM agent customization platform to enhance the SOTA in code generation.
+I'm building an LLM agent customization platform to enhance the SOTA in code generation AI.
 
 - 🔭 Prev [@Microsoft](https://github.com/microsoft/ 'Microsoft') Research
 - 🏰 Prev [@Huawei](https://github.com/Huawei/ 'Huawei')
