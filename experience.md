@@ -18,7 +18,7 @@ layout: default
 
 ![Poster](assets/images/AMS_ML_Poster.png)
 
-<iframe src="https://cktgym-1.web.app/" title="CktGym"></iframe>
+<iframe src="https://cktgym-1.web.app/" title="CktGym" width="100%" height="500" allowfullscreen></iframe>
 
 - Led a team of 5 researchers to develop a client-server interaction framework for circuit design and a reinforcement-learning library for circuit optimization.
 
