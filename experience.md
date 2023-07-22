@@ -14,7 +14,7 @@ layout: default
 
 **Links**
 
-- 🔭 [Spreadsheet Intelligence @ Microsoft Research](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/ "Spreadsheet Intelligence")
+- 🔭 [Spreadsheet Intelligence - Microsoft Research](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/ "Spreadsheet Intelligence")
 
 ---
 
