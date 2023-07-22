@@ -1,5 +1,5 @@
 ---
-title: Projects 项目
+title: Projects
 layout: default
 ---
 

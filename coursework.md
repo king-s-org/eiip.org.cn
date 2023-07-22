@@ -1,5 +1,5 @@
 ---
-title: Coursework 课业
+title: Coursework
 layout: default
 ---
 

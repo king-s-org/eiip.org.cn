@@ -1,5 +1,5 @@
 ---
-title: Home 主页
+title: Home
 layout: default
 ---
 

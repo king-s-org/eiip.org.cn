@@ -1,9 +1,9 @@
 title: "Shangdian (King) Han"
 
-page_title_1: "Home 主页"
-page_title_2: "Coursework 课业"
-page_title_3: "Teaching 教学"
-page_title_4: "Projects 项目"
+page_title_1: "Home"
+page_title_2: "Coursework"
+page_title_3: "Teaching"
+page_title_4: "Projects"
 
 menu: >
   <a href="/" style="color:#FFFFFF;">Home</a>
