@@ -9,7 +9,7 @@ layout: default
 
 I'm Shangdian (King) Han.
 
-At [Microsoft](https://github.com/microsoft/ 'Microsoft') Research, I prototyped the new Office AI for Excel.
+At Microsoft Research, I prototyped the new Office AI for Excel.
 
 I believe high-quality code generation AI will be the most important development for human civilization in the near future, for the simple reason that code shapes our world today.
 
