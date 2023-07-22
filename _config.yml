@@ -1,4 +1,4 @@
-title: "Shangdian (King) Han 韩尚典"
+title: "Shangdian (King) Han"
 
 page_title_1: "Home 主页"
 page_title_2: "Coursework 课业"
@@ -6,26 +6,26 @@ page_title_3: "Teaching 教学"
 page_title_4: "Projects 项目"
 
 menu: >
-  <a href="/" style="color:#FFFFFF;">Home 主页</a>
+  <a href="/" style="color:#FFFFFF;">Home</a>
   &emsp;
-  <a href="coursework" style="color:#FFFFFF;">Coursework 课业</a>
+  <a href="coursework" style="color:#FFFFFF;">Coursework</a>
   &emsp;
-  <a href="teaching" style="color:#FFFFFF;">Teaching 教学</a>
+  <a href="teaching" style="color:#FFFFFF;">Teaching</a>
   &emsp;
-  <a href="projects" style="color:#FFFFFF;">Projects 项目</a>
+  <a href="projects" style="color:#FFFFFF;">Projects</a>
 
 menu_1: >
-  <a href="/" style="color:#FFFFFF;"><b><u>Home 主页</u></b></a>
+  <a href="/" style="color:#FFFFFF;"><b><u>Home</u></b></a>
   &emsp;
-  <a href="coursework" style="color:#FFFFFF;">Coursework 课业</a>
+  <a href="coursework" style="color:#FFFFFF;">Coursework</a>
   &emsp;
-  <a href="teaching" style="color:#FFFFFF;">Teaching 教学</a>
+  <a href="teaching" style="color:#FFFFFF;">Teaching</a>
   &emsp;
-  <a href="projects" style="color:#FFFFFF;">Projects 项目</a>
+  <a href="projects" style="color:#FFFFFF;">Projects</a>
 
-menu_2: <a href="/" style="color:#FFFFFF;">Home 主页</a>&emsp;<a href="coursework" style="color:#FFFFFF;"><b><u>Coursework 课业</u></b></a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching 教学</a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects 项目</a>
-menu_3: <a href="/" style="color:#FFFFFF;">Home 主页</a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework 课业</a>&emsp;<a href="teaching" style="color:#FFFFFF;"><b><u>Teaching 教学</u></b></a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects 项目</a>
-menu_4: <a href="/" style="color:#FFFFFF;">Home 主页</a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework 课业</a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching 教学</a>&emsp;<a href="projects" style="color:#FFFFFF;"><b><u>Projects 项目</u></b></a>
+menu_2: <a href="/" style="color:#FFFFFF;">Home</a>&emsp;<a href="coursework" style="color:#FFFFFF;"><b><u>Coursework</u></b></a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching</a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects</a>
+menu_3: <a href="/" style="color:#FFFFFF;">Home</a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework</a>&emsp;<a href="teaching" style="color:#FFFFFF;"><b><u>Teaching</u></b></a>&emsp;<a href="projects" style="color:#FFFFFF;">Projects</a>
+menu_4: <a href="/" style="color:#FFFFFF;">Home</a>&emsp;<a href="coursework" style="color:#FFFFFF;">Coursework</a>&emsp;<a href="teaching" style="color:#FFFFFF;">Teaching</a>&emsp;<a href="projects" style="color:#FFFFFF;"><b><u>Projects</u></b></a>
 
 show_github_header: false
 show_github_footer: true
