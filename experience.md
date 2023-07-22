@@ -3,7 +3,7 @@ title: Experience
 layout: default
 ---
 
-## Microsoft Research
+## 🪟 Microsoft Research
 
 ![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
 
@@ -16,7 +16,7 @@ layout: default
 
 - 🔭 [Spreadsheet Intelligence @ Microsoft Research](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/ "Spreadsheet Intelligence")
 
-## Berkeley Wireless Research Center (BWRC) ML Discovery
+## 💫 Berkeley Wireless Research Center (BWRC) ML Discovery
 
 ![Poster](assets/images/AMS_ML_Poster.png)
 
