@@ -5,7 +5,7 @@ layout: default
 
 <!-- Should be consistent with README.md -->
 
-## Hi there! 👋
+## Hi there!! 👋
 
 I'm Shangdian (King) Han.
 
