@@ -1,5 +1,5 @@
 ---
-title: Teaching 教学
+title: Teaching
 layout: default
 ---
 
