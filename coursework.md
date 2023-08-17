@@ -15,9 +15,11 @@ Here's an (incomplete) list of classes that I've taken:
 | Math H104              | Honors Introduction to Analysis                                        |
 | Math 105               | Second Course in Analysis (Multivariable Calculus and Lebesgue Theory) |
 | Math 185               | Introduction to Complex Analysis                                       |
+| Math 128A              | Numerical Analysis                                                     |
 | Math 225A              | Metamathematics (Model Theory)                                         |
 | 💻 _Computer Science_ |                                                                        |
 | Data 8                 | Foundations of Data Science                                            |
+| Data 100               | Principles & Techniques of Data Science                                |
 | CS 61A                 | The Structure and Interpretation of Computer Programs                  |
 | CS 61B                 | Data Structures                                                        |
 | CS 61C                 | Great Ideas of Computer Architecture (Machine Structures)              |
