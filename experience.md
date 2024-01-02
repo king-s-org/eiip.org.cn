@@ -10,7 +10,7 @@ layout: default
 ![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
 
 - Used TypeScript and C# to prototype the new Office AI for Excel.
-- Used TensorFlow to improve a key ML classification model (LSTM + CRF). Increased F1 score from 72 to 77.
+- Used TensorFlow to improve an deployed ML classification model (LSTM + CRF). Increased F1 score from 72 to 77.
 
 **Links**
 
@@ -26,7 +26,7 @@ layout: default
 
 ![Poster](assets/images/AMS_ML_Poster.png)
 
-- Led a team of 5 researchers to develop a client-server interaction framework for circuit design and a reinforcement-learning library for circuit optimization.
+- Led a team of 5 researchers to develop an ML framework for circuit design on GCP and a reinforcement-learning library for circuit optimization.
 
 **Links**
 
