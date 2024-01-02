@@ -29,6 +29,9 @@ Here's an (incomplete) list of classes that I've taken:
 | CS 164                | Programming Languages and Compilers                                    |
 | CS 188                | Introduction to Artificial Intelligence                                |
 | EECS 127              | Optimization Models in Engineering                                     |
+| CS 198                | GamesCrafters                                                          |
+| CS 198                | Introduction to Quantitative Finance                                   |
+| Data 198              | Data Science Discovery                                                 |
 | 🤔 _Philosophy_       |                                                                        |
 | Philosophy R1B        | Reading and Composition Through Philosophy (Mind and Cognition)        |
 | Philosophy 146        | Philosophy of Mathematics                                              |
