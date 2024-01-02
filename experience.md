@@ -3,9 +3,9 @@ title: Experience
 layout: default
 ---
 
-## **🪟 Microsoft Research**
+## 🪟 Microsoft Research
 
-<h2 style="margin-top: 0">➡️ Research Fellow</h2>
+<h2 style="margin-top: 0">➡️ <i>Research Fellow</i></h2>
 
 ![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
 
@@ -18,9 +18,9 @@ layout: default
 
 ---
 
-## **💫 Berkeley Wireless Research Center (BWRC)**
+## 💫 Berkeley Wireless Research Center (BWRC)
 
-<h2 style="margin-top: 0">➡️ Researcher</h2>
+<h2 style="margin-top: 0">➡️ <i>Researcher</i></h2>
 
 <!-- <iframe src="https://cktgym-1.web.app/" title="CktGym" width="100%" height="500" allowfullscreen></iframe> -->
 
