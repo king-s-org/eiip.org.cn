@@ -26,6 +26,7 @@ Here's an (incomplete) list of classes that I've taken:
 | CS 61C                | Great Ideas of Computer Architecture (Machine Structures)              |
 | CS 70                 | Discrete Mathematics and Probability Theory                            |
 | CS 161                | Computer Security                                                      |
+| CS 164                | Programming Languages and Compilers                                    |
 | EECS 127              | Optimization Models in Engineering                                     |
 | 🤔 _Philosophy_       |                                                                        |
 | Philosophy R1B        | Reading and Composition Through Philosophy (Mind and Cognition)        |
