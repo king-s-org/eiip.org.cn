@@ -21,6 +21,4 @@ That's why I'm building an LLM agent customization platform to enhance the SOTA 
 - 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han")
 - 🕊️ [Twitter](https://twitter.com/kingh0730/ "kingh0730")
 
-<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kingh0730" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kingh0730?trk=profile-badge">Shangdian Han</a></div>
-
 ![Me](assets/images/me.jpg)
