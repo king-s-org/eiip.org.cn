@@ -11,7 +11,7 @@ menu_1: >
   &emsp;
   <a href="coursework" style="color:#FFFFFF;">Coursework</a>
   &emsp;
-  <a href="https://kingh0730.gumroad.com/" style="color:#FFFFFF;" target="_blank">Store ➚</a>
+  <a href="https://kingh0730.gumroad.com/" style="color:#FFFFFF;" target="_blank">Store➚</a>
 
 menu_2: >
   <a href="/" style="color:#FFFFFF;">Home</a>
@@ -20,7 +20,7 @@ menu_2: >
   &emsp;
   <a href="coursework" style="color:#FFFFFF;"><b><u>Coursework</u></b></a>
   &emsp;
-  <a href="https://kingh0730.gumroad.com/" style="color:#FFFFFF;" target="_blank">Store ➚</a>
+  <a href="https://kingh0730.gumroad.com/" style="color:#FFFFFF;" target="_blank">Store➚</a>
 
 menu_3: >
   <a href="/" style="color:#FFFFFF;">Home</a>
@@ -29,7 +29,7 @@ menu_3: >
   &emsp;
   <a href="coursework" style="color:#FFFFFF;">Coursework</a>
   &emsp;
-  <a href="https://kingh0730.gumroad.com/" style="color:#FFFFFF;" target="_blank">Store ➚</a>
+  <a href="https://kingh0730.gumroad.com/" style="color:#FFFFFF;" target="_blank">Store➚</a>
 
 show_github_header: false
 show_github_footer: false
