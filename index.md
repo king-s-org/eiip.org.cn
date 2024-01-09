@@ -23,11 +23,11 @@ That's why I'm building an LLM agent customization platform to enhance the SOTA 
 
 ![Me](assets/images/me.jpg)
 
-<object data="resume/cv_1.pdf" type="application/pdf" width="100%" height="1200px">
-    <embed src="resume/cv_1.pdf" type="application/pdf" width="100%" height="1200px" />
+<object data="resume\typst-cv-miku\cv_1.pdf" type="application/pdf" width="100%" height="1200px">
+    <embed src="resume\typst-cv-miku\cv_1.pdf" type="application/pdf" width="100%" height="1200px" />
         <p>
             This browser does not support PDFs. Please download to view my resume:
-            <a href="resume/cv_1.pdf" target="_blank">👉 Download Resume</a>.
+            <a href="resume\typst-cv-miku\cv_1.pdf" target="_blank">👉 Download Resume</a>.
         </p>
     </embed>
 </object>
