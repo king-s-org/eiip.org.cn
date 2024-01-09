@@ -26,7 +26,7 @@ layout: default
 
 ![Poster](assets/images/AMS_ML_Poster.png)
 
-- Led a team of 5 researchers to develop an ML framework for circuit design on GCP and a reinforcement-learning library for circuit optimization.
+- Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library for circuit optimization.
 
 ### Links
 
