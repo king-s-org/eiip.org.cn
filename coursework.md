@@ -9,15 +9,6 @@ Here's an (incomplete) list of classes that I've taken:
 
 | Class                   | Title                                                                  |
 | :---------------------- | ---------------------------------------------------------------------- |
-| 🔢 **Math**             |                                                                        |
-| Math 53                 | Multivariable Calculus                                                 |
-| Math 54                 | Linear Algebra and Differential Equations                              |
-| Math H104               | Honors Introduction to Analysis                                        |
-| Math 105                | Second Course in Analysis (Multivariable Calculus and Lebesgue Theory) |
-| Math 185                | Introduction to Complex Analysis                                       |
-| Math 128A               | Numerical Analysis                                                     |
-| Math 202A               | Topology and Analysis                                                  |
-| Math 225A               | Metamathematics (Model Theory)                                         |
 | 💻 **Computer Science** |                                                                        |
 | Data 8                  | Foundations of Data Science                                            |
 | Data 100                | Principles & Techniques of Data Science                                |
@@ -32,6 +23,15 @@ Here's an (incomplete) list of classes that I've taken:
 | CS 198                  | GamesCrafters × 2 semesters                                            |
 | CS 198                  | Introduction to Quantitative Finance                                   |
 | Data 198                | Data Science Discovery                                                 |
+| 🔢 **Math**             |                                                                        |
+| Math 53                 | Multivariable Calculus                                                 |
+| Math 54                 | Linear Algebra and Differential Equations                              |
+| Math H104               | Honors Introduction to Analysis                                        |
+| Math 105                | Second Course in Analysis (Multivariable Calculus and Lebesgue Theory) |
+| Math 185                | Introduction to Complex Analysis                                       |
+| Math 128A               | Numerical Analysis                                                     |
+| Math 202A               | Topology and Analysis                                                  |
+| Math 225A               | Metamathematics (Model Theory)                                         |
 | 🤔 **Philosophy**       |                                                                        |
 | Philosophy R1B          | Reading and Composition Through Philosophy (Mind and Cognition)        |
 | Philosophy 146          | Philosophy of Mathematics                                              |
