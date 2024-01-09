@@ -7,11 +7,13 @@ layout: default
 
 ## Hi there! 👋
 
-I'm Shangdian (King) Han.
+    I'm Shangdian (King) Han.
 
-- Full-stack research engineer.
-- Specialized in software engineering, with 5+ years of experience in successfully collaborating with ML researchers to turn research into products.
-- At Microsoft Research, I prototyped the new Office AI for Excel.
+Full-stack research engineer.
+
+Specialized in software engineering, with 5+ years of experience in successfully collaborating with ML researchers to turn research into products.
+
+At Microsoft Research, I prototyped the new Office AI for Excel.
 
 - 🌱 UC Berkeley - Honors CS & Math
 - 📧 <kingh0730@gmail.com>
