@@ -37,4 +37,4 @@ layout: default
 
 ## 👔 Additional Experience
 
-> More experience can be found on my [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han").
+    More experience can be found on my [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han").
