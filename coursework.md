@@ -5,7 +5,7 @@ layout: default
 
 ## University of California, Berkeley
 
-Here's an (incomplete) list of classes that I've taken:
+### Tech GPA: 4.0 | GPA: 3.92
 
 | Class                   | Title                                                                  |
 | :---------------------- | ---------------------------------------------------------------------- |
