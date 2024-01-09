@@ -9,7 +9,7 @@ layout: default
 
 ![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
 
-- Prototyped the new Office AI for Excel using TypeScript and C#.
+- Prototyped the new Office AI for Excel using TypeScript, C#, and TensorFlow, enabling users to perform 10+ AI tasks. Shipped to the Excel product team.
 - Improved a deployed ML classification model (LSTM + CRF) using TensorFlow, increasing its F1 score from 72 to 77.
 
 ### Links
@@ -26,7 +26,7 @@ layout: default
 
 ![Poster](assets/images/AMS_ML_Poster.png)
 
-- Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library for circuit optimization.
+- Led a team of 5 researchers to develop an ML service for circuit design on GCP and a reinforcement-learning library for circuit optimization using OpenAI Gym and Ray.
 - Enabled ML researchers to design optimal circuits without any prior knowledge of circuit design, reducing the design time from 1 week to 1 day.
 
 ### Links
