@@ -23,11 +23,11 @@ At Microsoft Research, I prototyped the new Office AI for Excel.
 
 ![Me](assets/images/me.jpg)
 
-<object data="resume\typst-cv-miku\cv_1.pdf" type="application/pdf" width="100%" height="100%">
+<!-- <object data="resume\typst-cv-miku\cv_1.pdf" type="application/pdf" width="100%" height="100%">
     <embed src="resume\typst-cv-miku\cv_1.pdf" type="application/pdf" width="100%" height="100%">
         <p>
             This browser does not support PDFs. Please download to view my resume:
             <a href="resume\typst-cv-miku\cv_1.pdf" target="_blank">👉 Download Resume</a>.
         </p>
     </embed>
-</object>
+</object> -->

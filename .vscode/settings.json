@@ -15,6 +15,7 @@
     "leftsection",
     "linkin",
     "LSTM",
+    "miku",
     "Multivariable",
     "projectexperience",
     "projecttitle",
@@ -26,6 +27,7 @@
     "Streamlit",
     "techtitle",
     "titleemj",
-    "titlefont"
+    "titlefont",
+    "typst"
   ]
 }
