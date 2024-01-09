@@ -17,8 +17,8 @@ That's why I'm building an LLM agent customization platform to enhance the SOTA 
 
 - 🌱 UC Berkeley - Honors CS & Math
 - 📧 <kingh0730@berkeley.edu>
-- 🐈‍⬛ [GitHub](https://github.com/kingh0730 "Shangdian (King) Han")
 - 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han")
+- 🐈‍⬛ [GitHub](https://github.com/kingh0730 "Shangdian (King) Han")
 - 🕊️ [Twitter](https://twitter.com/kingh0730/ "kingh0730")
 
 ![Me](assets/images/me.jpg)
