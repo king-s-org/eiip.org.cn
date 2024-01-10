@@ -20,7 +20,7 @@ layout: default
 
 ## 💫 Berkeley Wireless Research Center (BWRC)
 
-<h2 style="margin-top: 0"><i>Researcher</i></h2>
+<h2 style="margin-top: 0"><i>Research Engineer</i></h2>
 
 <!-- <iframe src="https://cktgym-1.web.app/" title="CktGym" width="100%" height="500" allowfullscreen></iframe> -->
 
