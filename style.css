@@ -1,7 +1,6 @@
 @font-face {
   font-family: "MyWebFont";
   src: url("assets/fonts/Fontin-Regular.ttf") format("truetype");
-  font-style: normal;
 }
 
 @font-face {
@@ -17,14 +16,18 @@
 }
 
 @font-face {
-  font-family: "MyWebFont Mono";
-  src: url("assets/fonts/DankMono-Regular.otf") format("opentype");
-  font-style: normal;
+  font-family: "MyWebFont SmallCaps";
+  src: url("assets/fonts/Fontin-SmallCaps.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "MyWebFont Mono";
-  src: url("assets/fonts/DankMono-Italic.otf") format("opentype");
+  src: url("assets/fonts/Dank-Mono-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyWebFont Mono";
+  src: url("assets/fonts/Dank-Mono-Italic.otf") format("opentype");
   font-style: italic;
 }
 
@@ -39,5 +42,7 @@ code {
 }
 
 .project-name {
-  font-variant: small-caps;
+  font-family: "MyWebFont SmallCaps", "MyWebFont", "Fontin", "Open Sans",
+    "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  /* font-variant: small-caps; */
 }
