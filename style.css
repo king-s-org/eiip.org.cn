@@ -16,14 +16,26 @@
   font-weight: bold;
 }
 
+@font-face {
+  font-family: "MyWebFont Mono";
+  src: url("assets/fonts/DankMono-Regular.otf") format("opentype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MyWebFont Mono";
+  src: url("assets/fonts/DankMono-Italic.otf") format("opentype");
+  font-style: italic;
+}
+
 body {
   font-family: "MyWebFont", "Fontin", "Open Sans", "Helvetica Neue", Helvetica,
     Arial, sans-serif !important;
 }
 
 code {
-  font-family: "Dank Mono", Consolas, "Liberation Mono", Menlo, Courier,
-    monospace !important;
+  font-family: "MyWebFont Mono", "Dank Mono", Consolas, "Liberation Mono", Menlo,
+    Courier, monospace !important;
 }
 
 .project-name {
