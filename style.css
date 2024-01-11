@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "MyWebFont";
+  src: url("assets/fonts/Fontin-Regular.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MyWebFont";
+  src: url("assets/fonts/Fontin-Italic.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "MyWebFont";
+  src: url("assets/fonts/Fontin-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+body {
+  font-family: "MyWebFont", "Fontin", "Open Sans", "Helvetica Neue", Helvetica,
+    Arial, sans-serif !important;
+}
+
+code {
+  font-family: "Dank Mono", Consolas, "Liberation Mono", Menlo, Courier,
+    monospace !important;
+}
+
+.project-name {
+  font-variant: small-caps;
+}
