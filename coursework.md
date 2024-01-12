@@ -5,10 +5,16 @@ layout: default
 
 ## University of California, Berkeley
 
-### Tech GPA: 4.0 | GPA: 3.92
+<h2 style="margin-top: 0"><i>B.A. Honors Computer Science & Mathematics</i></h2>
+
+| Tech GPA | GPA  |
+| -------- | ---- |
+| 4.0      | 3.92 |
+
+---
 
 | Class                   | Title                                                                  |
-| :---------------------- | ---------------------------------------------------------------------- |
+| ----------------------- | ---------------------------------------------------------------------- |
 | 💻 **Computer Science** |                                                                        |
 | Data 8                  | Foundations of Data Science                                            |
 | Data 100                | Principles & Techniques of Data Science                                |
