@@ -11,7 +11,7 @@ layout: default
 
 Full-stack research engineer.
 
-Specialized in software engineering, with 5+ years of experience in successfully collaborating with ML researchers to turn research into products.
+Specialized in software engineering, with 5+ years of experience in collaborating with ML researchers to turn research into products.
 
 At Microsoft Research, I prototyped the new Office AI for Excel.
 
