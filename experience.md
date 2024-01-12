@@ -31,7 +31,7 @@ layout: default
 
 ### Links
 
-- 🐈‍⬛ [GitHub](https://github.com/BWRC-AMS-ML-Discovery/BwrcAmsMlDiscovery "BwrcAmsMlDiscovery")
+- 🐈‍⬛ [GitHub repo](https://github.com/BWRC-AMS-ML-Discovery/BwrcAmsMlDiscovery "BwrcAmsMlDiscovery")
 - 🎓 [Runner-up for the Cloud Computing Application Award at the Spring 2023 cohort of Discovery (UC Berkeley Data Science)](https://data.berkeley.edu/spring-2023-data-science-discovery-showcase-highlights "Spring 2023 Data Science Discovery Showcase Highlights")
 
 ---
