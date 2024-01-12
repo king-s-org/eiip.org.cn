@@ -18,7 +18,7 @@ layout: default
 
 ---
 
-## 💫 Berkeley Wireless Research Center (BWRC)
+## 🗼 Berkeley Wireless Research Center (BWRC)
 
 <h2 style="margin-top: 0; font-weight: normal;"><i>Research Engineer</i></h2>
 
