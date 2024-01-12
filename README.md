@@ -14,4 +14,4 @@ At [@Microsoft](https://github.com/microsoft/ "Microsoft") Research, I prototype
 - 📧 <kingh0730@gmail.com>
 - 😊 [My Personal Website](https://kinghan.info/ "Shangdian (King) Han")
 - 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han")
-- 🕊️ [Twitter](https://twitter.com/kingh0730/ "kingh0730")
+- 🕊️ [Twitter/𝕏](https://twitter.com/kingh0730/ "kingh0730")
