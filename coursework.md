@@ -3,9 +3,9 @@ title: Coursework
 layout: default
 ---
 
-## University of California, Berkeley
+## 🐻 University of California, Berkeley
 
-<h2 style="margin-top: 0"><i>B.A. Honors Computer Science & Mathematics</i></h2>
+<h2 style="margin-top: 0; font-weight: normal;"><i>B.A. Honors Computer Science & Mathematics</i></h2>
 
 | Tech GPA | GPA  |
 | -------- | ---- |

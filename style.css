@@ -33,16 +33,20 @@
 
 body {
   font-family: "MyWebFont", "Fontin", "Open Sans", "Helvetica Neue", Helvetica,
-    Arial, sans-serif !important;
+    Arial, sans-serif;
 }
 
-code {
+.main-content code {
   font-family: "MyWebFont Mono", "Dank Mono", Consolas, "Liberation Mono", Menlo,
-    Courier, monospace !important;
+    Courier, monospace;
 }
 
 .project-name {
   font-family: "MyWebFont SmallCaps", "MyWebFont", "Fontin", "Open Sans",
-    "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
   /* font-variant: small-caps; */
+}
+
+.main-content h2 {
+  font-weight: bold;
 }
