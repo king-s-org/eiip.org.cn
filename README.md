@@ -19,5 +19,3 @@ At [@Microsoft](https://github.com/microsoft/ "Microsoft") Research, I prototype
 ## Hire me! 🫰
 
 - 📃 [My Resume](resume/resume.pdf "resume")
-
-![Me](assets/images/me.jpg)
