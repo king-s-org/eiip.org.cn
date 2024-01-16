@@ -16,8 +16,8 @@ At [@Microsoft](https://github.com/microsoft/ "Microsoft") Research, I prototype
 
 ## Grab a coffee ☕
 
-- 📅 [Schedule](https://calendly.com/kinghan "Calendly")
+- 📅 [Schedule Meeting](https://calendly.com/kinghan "Calendly")
 
-## Hire me! 🫰
+## Hire me 🫰
 
 - 📃 [My Resume](resume/resume.pdf "Resume")
