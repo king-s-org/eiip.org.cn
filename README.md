@@ -2,8 +2,6 @@
 
 # Hi there! 👋
 
-    I'm Shangdian (King) Han.
-
 Full-stack research engineer.
 
 Specialized in software engineering, with 5+ years of experience in collaborating with ML researchers to turn research into products.
