@@ -1,6 +1,6 @@
 <!-- Should be consistent with index.md -->
 
-# Hi there! 👋
+## Hi there! 👋
 
 Full-stack research engineer.
 
