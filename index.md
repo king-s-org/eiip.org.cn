@@ -19,8 +19,12 @@ At Microsoft Research, I prototyped the new Office AI for Excel.
 - 🐈‍⬛ [GitHub](https://github.com/kingh0730 "Shangdian (King) Han")
 - 🕊️ [Twitter/𝕏](https://twitter.com/kingh0730/ "kingh0730")
 
+## Grab a coffee ☕
+
+- 📅 [Schedule](https://calendly.com/kinghan "Calendly")
+
 ## Hire me! 🫰
 
-- 📃 [My Resume](resume/resume.pdf "resume")
+- 📃 [My Resume](resume/resume.pdf "Resume")
 
 ![Me](assets/images/me.jpg)

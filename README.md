@@ -14,6 +14,10 @@ At [@Microsoft](https://github.com/microsoft/ "Microsoft") Research, I prototype
 - 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han")
 - 🕊️ [Twitter/𝕏](https://twitter.com/kingh0730/ "kingh0730")
 
+## Grab a coffee ☕
+
+- 📅 [Schedule](https://calendly.com/kinghan "Calendly")
+
 ## Hire me! 🫰
 
-- 📃 [My Resume](resume/resume.pdf "resume")
+- 📃 [My Resume](resume/resume.pdf "Resume")
