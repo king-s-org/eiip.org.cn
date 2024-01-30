@@ -10,7 +10,7 @@ layout: default
 ![Spreadsheet Intelligence](assets/images/Spreadsheet_Intelligence.gif)
 
 - Prototyped the new Office AI for Excel using TypeScript, C#, and TensorFlow, enabling users to perform 10+ AI tasks. Shipped to the Excel product team.
-- Improved a deployed ML classification model (LSTM + CRF) using TensorFlow, increasing its F1 score from 72 to 77.
+- Improved a deployed ML classification model (LSTM + CRF), increasing the F1 score from 72 to 77.
 
 ### Links
 
