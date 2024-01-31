@@ -20,4 +20,4 @@ At [@Microsoft](https://github.com/microsoft/ "Microsoft") Research, I prototype
 
 ## Hire me 🫰
 
-- 📃 [My Resume](resume/resume.pdf "Resume")
+- 📃 [My Resume](<resume/Shangdian (King) Han - Resume.pdf> "Resume")

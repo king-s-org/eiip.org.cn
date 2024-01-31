@@ -26,9 +26,9 @@ layout: default
 | CS 164                  | Programming Languages and Compilers                                    |
 | CS 188                  | Introduction to Artificial Intelligence                                |
 | EECS 127                | Optimization Models in Engineering                                     |
-| CS 198                  | GamesCrafters × 2 semesters                                            |
-| CS 198                  | Introduction to Quantitative Finance                                   |
 | Data 198                | Data Science Discovery                                                 |
+| CS 198                  | Introduction to Quantitative Finance                                   |
+| CS 198                  | GamesCrafters × 2 semesters                                            |
 | 🔢 **Math**             |                                                                        |
 | Math 53                 | Multivariable Calculus                                                 |
 | Math 54                 | Linear Algebra and Differential Equations                              |

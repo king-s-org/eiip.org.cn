@@ -25,6 +25,6 @@ At Microsoft Research, I prototyped the new Office AI for Excel.
 
 ## Hire me 🫰
 
-- 📃 [My Resume](resume/resume.pdf "Resume")
+- 📃 [My Resume](<resume/Shangdian (King) Han - Resume.pdf> "Resume")
 
 ![Me](assets/images/me.jpg)
