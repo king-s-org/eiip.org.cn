@@ -7,9 +7,9 @@ layout: default
 
 <h2 style="margin-top: 0; font-weight: normal;"><i>B.A. Honors Computer Science & Mathematics</i></h2>
 
-| Tech GPA | GPA  |
-| -------- | ---- |
-| 4.0      | 3.92 |
+| Tech GPA | GPA |
+| -------- | --- |
+| 4.0      | 3.9 |
 
 ---
 
@@ -34,6 +34,7 @@ layout: default
 | Math 54                 | Linear Algebra and Differential Equations                              |
 | Math H104               | Honors Introduction to Analysis                                        |
 | Math 105                | Second Course in Analysis (Multivariable Calculus and Lebesgue Theory) |
+| Math 113                | Abstract Algebra                                                       |
 | Math 185                | Introduction to Complex Analysis                                       |
 | Math 128A               | Numerical Analysis                                                     |
 | Math 202A               | Topology and Analysis                                                  |
