@@ -7,18 +7,25 @@ layout: default
 
 ## Hi there! 👋
 
-I'm Shangdian (King) Han.
+Full-stack research engineer.
+
+Specializes in software engineering, with 5+ years of experience in collaborating with ML researchers to turn research into products.
 
 At Microsoft Research, I prototyped the new Office AI for Excel.
 
-I believe high-quality code generation AI will be the most important development for human civilization in the near future, for the simple reason that code shapes our world today.
+- 🌱 UC Berkeley - Honors CS & Math
+- 📧 <kingh0730@gmail.com>
+- 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han")
+- 🐈‍⬛ [GitHub](https://github.com/kingh0730 "Shangdian (King) Han")
+- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=weh9n8wAAAAJ "Shangdian (King) Han")
+- 🕊️ [Twitter/𝕏](https://twitter.com/kingh0730/ "kingh0730")
 
-That's why I'm building an LLM agent customization platform to enhance the SOTA in code generation AI.
+## Grab a coffee ☕
 
-- 🌱 UC Berkeley - CS & Math
-- 📧 <kingh0730@berkeley.edu>
-- 🐈‍⬛ [GitHub](https://github.com/kingh0730 'Shangdian (King) Han')
-- 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ 'Shangdian (King) Han')
-- 🕊️ [Twitter](https://twitter.com/kingh0730/ 'kingh0730')
+- 📅 [Schedule Meeting](https://calendly.com/kinghan "Calendly")
+
+## Hire me 🫰
+
+- 📃 [My Resume](<resume/Shangdian (King) Han - Resume.pdf> "Resume")
 
 ![Me](assets/images/me.jpg)

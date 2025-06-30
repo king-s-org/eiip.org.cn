@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "MyWebFont";
+  src: url("assets/fonts/Fontin-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "MyWebFont";
+  src: url("assets/fonts/Fontin-Italic.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "MyWebFont";
+  src: url("assets/fonts/Fontin-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "MyWebFont SmallCaps";
+  src: url("assets/fonts/Fontin-SmallCaps.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "MyWebFont Mono";
+  src: url("assets/fonts/Dank-Mono-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyWebFont Mono";
+  src: url("assets/fonts/Dank-Mono-Italic.otf") format("opentype");
+  font-style: italic;
+}
+
+body {
+  font-family: "MyWebFont", "Fontin", "Open Sans", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+}
+
+.main-content code {
+  font-family: "MyWebFont Mono", "Dank Mono", Consolas, "Liberation Mono", Menlo,
+    Courier, monospace;
+}
+
+.project-name {
+  font-family: "MyWebFont SmallCaps", "MyWebFont", "Fontin", "Open Sans",
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-variant: small-caps; */
+}
+
+.main-content h2 {
+  font-weight: bold;
+}

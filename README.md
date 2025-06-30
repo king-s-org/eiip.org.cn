@@ -1,17 +1,24 @@
 <!-- Should be consistent with index.md -->
 
-# Hi there! 👋
+## Hi there! 👋
 
-I'm Shangdian (King) Han.
+Full-stack research engineer.
 
-At [@Microsoft](https://github.com/microsoft/ 'Microsoft') Research, I prototyped the new Office AI for Excel.
+Specializes in software engineering, with 5+ years of experience in collaborating with ML researchers to turn research into products.
 
-I believe high-quality code generation AI will be the most important development for human civilization in the near future, for the simple reason that code shapes our world today.
+At [@Microsoft](https://github.com/microsoft/ "Microsoft") Research, I prototyped the new Office AI for Excel.
 
-That's why I'm building an LLM agent customization platform to enhance the SOTA in code generation AI.
+- 🌱 UC Berkeley - Honors CS & Math
+- 📧 <kingh0730@gmail.com>
+- 🏠 [My Personal Website](https://kinghan.info/ "Shangdian (King) Han")
+- 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ "Shangdian (King) Han")
+- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=weh9n8wAAAAJ "Shangdian (King) Han")
+- 🕊️ [Twitter/𝕏](https://twitter.com/kingh0730/ "kingh0730")
 
-- 🌱 UC Berkeley - CS & Math
-- 📧 <kingh0730@berkeley.edu>
-- 😊 [My Personal Website](https://kinghan.info/ 'Shangdian (King) Han')
-- 👔 [LinkedIn](https://www.linkedin.com/in/kingh0730/ 'Shangdian (King) Han')
-- 🕊️ [Twitter](https://twitter.com/kingh0730/ 'kingh0730')
+## Grab a coffee ☕
+
+- 📅 [Schedule Meeting](https://calendly.com/kinghan "Calendly")
+
+## Hire me 🫰
+
+- 📃 [My Resume](<resume/Shangdian (King) Han - Resume.pdf> "Resume")

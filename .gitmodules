@@ -1,0 +1,3 @@
+[submodule "resume/typst-cv-miku"]
+	path = resume/typst-cv-miku
+	url = https://github.com/kingh0730/typst-cv-miku.git
